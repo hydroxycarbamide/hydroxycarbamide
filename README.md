@@ -28,15 +28,10 @@ I love working with new technologies and constantly improving my skills.
 ![Podman](https://img.shields.io/badge/Podman-89BBE0?style=for-the-badge&logo=podman&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-<!--
+
 ## Stats
 
-![hydroxycarbamide's Stats](https://github-readme-stats.vercel.app/api?username=hydroxycarbamide&theme=react&show_icons=true&hide_border=true&count_private=true)
-
 ![hydroxycarbamide's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hydroxycarbamide&theme=react&hide_border=true)
-
-![hydroxycarbamide's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hydroxycarbamide&theme=react&show_icons=true&hide_border=true&layout=compact)
--->
 
 ## Connect with Me
 
