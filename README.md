@@ -5,8 +5,8 @@
 I'm a passionate full-stack developer with a keen interest in open-source projects.
 I love working with new technologies and constantly improving my skills.
 
-- 🔭 I’m currently working on my CI/CD skills
-- 🌱 I’m currently learning Ansible
+- 🔭 I’m currently working on maintaining a fork of [Gradience](https://github.com/hydroxycarbamide/Gradience)
+- 🌱 I’m currently learning Terraform and Bicep
 - ❤️ I love self-hosting
 - 🐧 Linux is my favorite Operating System
 
@@ -15,6 +15,7 @@ I love working with new technologies and constantly improving my skills.
 ### Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Frameworks & Libraries
