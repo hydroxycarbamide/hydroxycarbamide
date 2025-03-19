@@ -6,7 +6,7 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 I love working with new technologies and constantly improving my skills.
 
 - 🔭 I’m currently working on maintaining a fork of [Gradience](https://github.com/hydroxycarbamide/Gradience)
-- 🌱 I’m currently learning Terraform and Bicep
+- 🌱 I’m currently learning Rust, Gtk and LibAdwaita
 - ❤️ I love self-hosting
 - 🐧 Linux is my favorite Operating System
 
