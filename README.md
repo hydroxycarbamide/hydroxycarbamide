@@ -29,11 +29,6 @@ I love working with new technologies and constantly improving my skills.
 ![Podman](https://img.shields.io/badge/Podman-89BBE0?style=for-the-badge&logo=podman&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-
-## Stats
-
-![hydroxycarbamide's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hydroxycarbamide&theme=react&hide_border=true)
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-hoang-nguyen)
